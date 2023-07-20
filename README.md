@@ -33,7 +33,7 @@ Once the virtual machine is open, right-click the start menu, select run, and ty
 
 ![image](https://github.com/Annelys08/osticket-prereqs/assets/139095349/be2c714c-a65e-4fe3-91f1-68f7d26c40c2)
 
-Next, we will install PHP Manager and open the file when it's done downloading. Repeat with the Rewrite Module and the PHP 7.3.8 file. After, open file explorer and search Windows (C:) and create a new folder. In this new folder created, you will extract all the files that are in PHP 7.3.8 file. Then you will install Microsoft Visual C++, MySQL, and osTicket. In IIS you should enable a few extensions in the osTicket section and click on the PHP Manager which are the following (the website should look like this after you have enabled the extensions): 
+Next, we will install PHP Manager and open the file when it's done downloading. Repeat with the Rewrite Module and the PHP 7.3.8 file. After, open file explorer and search Windows (C:) and create a new folder named PHP. In this new folder created, you will extract all the files that are in PHP 7.3.8 file. Then you will install Microsoft Visual C++, MySQL, and osTicket. In IIS you should enable a few extensions in the osTicket section and click on the PHP Manager which are the following (the website should look like this after you have enabled the extensions): 
 1. Enable: php_imap.dll
 2. Enable: php_intl.dll
 3. Enable: php_opcache.dll
