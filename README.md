@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create an account in Microsoft Azure and add an Azure subscription
+- Create an account in <a href="[https://azure.microsoft.com/en-us/homepage-b/]">Microsoft Azure and add an Azure subscription
 - Create a Resource Group and name it RG-osTicket
 - Make a Virtual Machine and allow it to create a new virtual network and subnet
 - Item 4
