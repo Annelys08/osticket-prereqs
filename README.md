@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  ![create_a_virtualmachine](https://github.com/Annelys08/osticket-prereqs/assets/139095349/63d938d2-52de-41dd-b24c-65adc877cca8)
 
 ![remotedesktopconnection](https://github.com/Annelys08/osticket-prereqs/assets/139095349/01ef2fb7-48d5-4228-8159-87c333ea4a46)
-- Install the Prerequisites for the OsTicketing System
+- Install the Prerequisites for the OsTicketing System ( Installation files - https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
 <h2>Installation Steps</h2>
 
